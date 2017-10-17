@@ -64,6 +64,7 @@ class App extends React.Component {
                             <Navbar.Toggle />
                         </Navbar.Header>
                     </Grid>
+
                 </Navbar>
                 <Jumbotron>
                     <Grid>

@@ -21,7 +21,7 @@ export default function filterLocationList(searchText, fetchedLocationList, maxR
                 return true;
             }
         } catch (e) {
-            
+
         }
         return false;
     }).slice(0, maxResults);
